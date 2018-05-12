@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Climbing News</string>
+
+    <string name="no_articles">No articles available!</string>
+    <string name="no_internet">No internet connection!</string>
+
+    <string name="title">Title: %1$s</string>
+    <string name="section">Section: %1$s</string>
+    <string name="datePub">Date Published: %1$s</string>
+    <string name="author">Author: %1$s</string>
+
+</resources>
